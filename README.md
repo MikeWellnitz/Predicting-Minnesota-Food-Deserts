@@ -1,12 +1,12 @@
 # Predicting Minnesota Food Deserts
 
 ## Research Question
-Despite considering multiple topics to build our model around, including personal beverage choices, sports analytics, diagnostic medical data, air quality data, and other weather, or natural disaster data, we elected to build out a model around census data that specifcally concerns food accessability. As a group we agreed that an easily accessible, single source dataset, would offer the simplest route to quickly building a model. You can find the chosen dataset at [USDA Economic Research Service](https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/) site, "Food Access Research Atlas Data Download 2019."
+This project attempts to go about creating a model using census data that specifcally concerns food accessability in the state of Minnesota. An easily accessible, single source dataset offered the simplest route to quickly building a model. This dataset can be found at [USDA Economic Research Service](https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/) site, "Food Access Research Atlas Data Download 2019."
 
-_Can I create a model using census tract data that could be used to predict food deserts in Minnesota and achieve at least 75% accuracy?_
+_Can a model be created using census tract data that could be used to predict food deserts in Minnesota and can that model achieve at least 75% accuracy?_
 
 ## Data Cleaning
-The Excel file was downloaded and resaved as a CSV, before being cleaned in Jupyter Notebooks. From here the data was cleaned using the Pandas library, before coding the model, using the same Jupyter Notebooks file.
+An Excel file was downloaded and resaved as a CSV in Jupyter Notebook.  The data was then cleaned using the Pandas library before coding the model, using the same Jupyter Notebooks file.
 
 ### Languages and Libraries
 + Excel
