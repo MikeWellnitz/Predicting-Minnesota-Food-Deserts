@@ -1,7 +1,7 @@
 # Predicting Minnesota Food Deserts
 
 ## Research Question
-This project attempts to go about creating a model using census data that specifcally concerns food accessability in the state of Minnesota. An easily accessible, single source dataset offered the simplest route to quickly building a model. This dataset can be found at [USDA Economic Research Service](https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/) site, "Food Access Research Atlas Data Download 2019."
+This project attempts to go about creating a neural network model using census data that specifcally concerns food accessability in the state of Minnesota. An easily accessible, single source dataset offered the simplest route to quickly building a model. This dataset can be found at [USDA Economic Research Service](https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/) site, "Food Access Research Atlas Data Download 2019."
 
 _Can a model be created using census tract data that could be used to predict food deserts in Minnesota and can that model achieve at least 75% accuracy?_
 
